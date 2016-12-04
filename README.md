@@ -1,4 +1,4 @@
 # hello-world
 Learning to use GitHub.
 
-Hi! I'm a newbie programmer from Australia.
+Hi! I'm a programmer-in-training from rural Australia.
